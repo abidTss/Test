@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_code_10">
+        <item name="code">10</item>
+        <item name="message">Parsing Error</item>
+        <item name="description">Here Is The Description</item>
+    </string-array>
+
+    <string-array name="error_code_11">
+        <item name="code">11</item>
+        <item name="message">Parsing Error 11</item>
+        <item name="description">Here Is The Description</item>
+    </string-array>
+
+    <string-array name="error_code_12">
+        <item name="code">12</item>
+        <item name="message">Parsing Error 12</item>
+        <item name="description">Here Is The Description</item>
+    </string-array>
+
+    <string-array name="error_code_13">
+        <item name="code">13</item>
+        <item name="message">Parsing Error 13</item>
+        <item name="description">Here Is The Description</item>
+    </string-array>
+</resources>

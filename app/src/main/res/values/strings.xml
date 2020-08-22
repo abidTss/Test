@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kotlinDemo</string>
+    <string name="parsing_error">ParsingError</string>
+    <string name="parsing_error11">ParsingError11</string>
+    <string name="parsing_error12">ParsingError12</string>
+    <string name="parsing_error13">ParsingError13</string>
+    <string name="parsing_desc">Please provide the description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
